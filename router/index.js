@@ -3,5 +3,7 @@ function cat (){
 }
 function log(){
     console.log('con cho vang');
-    
+}
+function Cat (name){
+    this.name = name;
 }
