@@ -7,6 +7,9 @@ function log(){
 function Cat (name){
     this.name = name;
 }
+function ho (){
+    console.log('ho thich an ');
+}
 log();
 Cat();
 catt();
