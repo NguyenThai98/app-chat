@@ -1,4 +1,4 @@
-function cat (){
+function catt (){
     return "Con Cat"
 }
 function log(){
@@ -9,3 +9,4 @@ function Cat (name){
 }
 log();
 Cat();
+catt();
