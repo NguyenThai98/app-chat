@@ -7,3 +7,4 @@ function log(){
 function Cat (name){
     this.name = name;
 }
+log();
